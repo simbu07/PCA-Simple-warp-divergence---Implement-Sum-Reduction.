@@ -42,9 +42,6 @@ Atlast , free the host and device memory then reset the device and check for res
 
 ## Program :
 
-**Name : Silambarasan K**
-
-**Reg no : 212221230101**
 
 ```CUDA
 
